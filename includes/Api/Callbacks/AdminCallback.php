@@ -32,7 +32,7 @@ class AdminCallback extends BaseController
 
     public function currencySection()
     {
-        echo 'check me out!';//CHECK THE GITHUB PLACE FOR WHAT IS HERE!!!
+        echo 'Settings section';
     }
 
     public function currencyFields()
